@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=433&amp;height=75&amp;lines=I\'m+Eslam+Mohamed+Ahmed+Elawdy;Front+End+Developer;University+Student;%40EslamElawdy">
 </p>
 
-
 # 💫 About Me: <br> - I’m currently working on : University Graduation Project <br>- I’m currently learning : BackEnd-Node.js & GSAP-Three.js<br>- Ask me about : React.js<br>- How to reach me : Eslam.mohamed.ki123@gmail.com<br>- Fun fact : What's new today is old tomorrow
 
 # 💻 Tech Stack:
