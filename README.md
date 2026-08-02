@@ -12,6 +12,23 @@
   <a href="https://github.com/SAYOS-crs"><img src="https://img.shields.io/badge/GitHub-SAYOS--crs-ff0033?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
 </p>
 
+
+### `sayos@terminal:~# cat /etc/profile.sys`
+
+
+ ┌──(sayos㉿cyber-kernel)-[~]
+ └─$ status --user "Eslam Mohamed Elawady"
+ ```
+   • IDENTITY    : Full Stack Software Engineer & AI Systems Integrator
+   • LOCATION    : Giza, Egypt 🇪🇬
+   • CORE STACK  : MERN Stack (MongoDB, Express, React, Node.js) | NestJS | Next.js
+   • SPECIALTY   : Scalable Backend Architecture, Systems Architecture , GenAI Agents, CI/CD
+   • EMAIL       : Eslam.mohamed.ki123@gmail.com
+
+```
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAYOS-crs&color=ff0033&style=flat-square&label=SYSTEM+VISITS" alt="Visitor Counter" />
 </p>
@@ -41,19 +58,6 @@
 
 ---
 
-### `sayos@terminal:~# cat /etc/profile.sys`
-
-
- ┌──(sayos㉿cyber-kernel)-[~]
- └─$ status --user "Eslam Mohamed Elawady"
- ```
-   • IDENTITY    : Full Stack Software Engineer & AI Systems Integrator
-   • LOCATION    : Giza, Egypt 🇪🇬
-   • CORE STACK  : MERN Stack (MongoDB, Express, React, Node.js) | NestJS | Next.js
-   • SPECIALTY   : Scalable Backend Architecture, Systems Architecture , GenAI Agents, CI/CD
-   • EMAIL       : Eslam.mohamed.ki123@gmail.com
-
-```
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAYOS-crs&theme=dark&background=09090b&border=ff0033&fire=ff0033&ring=ff0033&currStreakNum=ffffff&currStreakLabel=ff0033&dates=888888" width="99%" alt="Streak Stats" />
 </div>
