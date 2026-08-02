@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Eslam%20Elawady%20(SAYOS)&fontSize=42&fontColor=FF0033&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Nest.js%20%7C%20Next.js%20%7C%20%2B%20GenAI&descSize=18&descColor=DDDDDD&descAlignY=62" width="100%" alt="Header Banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF0033&center=true&vCenter=true&width=650&lines=%3E_+'Root'+access+granted...;%3E_+Building+Scalable+MERN+%2B+NestJS+Systems;%3E_+Crafting+Custom+MCP+Servers+%26+GenAI+Tools;%3E_+CI%2FCD+Pipelines+%26+Microservice+Architectures" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF0033&center=true&vCenter=true&width=650&lines=%3E_+'Root'+access+granted...;%3E_+Building+Scalable+MERN+%2B+NestJS+Systems;%3E_+Execute+order+66;%3E_+CI%2FCD+Pipelines+%26+Microservice+Architectures" alt="Typing Banner" />
 </a>
 
 <p align="center">
