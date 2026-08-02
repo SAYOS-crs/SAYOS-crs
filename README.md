@@ -11,13 +11,16 @@
    • EMAIL       : Eslam.mohamed.ki123@gmail.com
 
 
-```bash
+
+<div align="center">
 sayos@cyber-kernel:~$ echo "Let's build something extraordinary together."
 # Email    : Eslam.mohamed.ki123@gmail.com
 # LinkedIn : https://www.linkedin.com/in/eslam-elawdy-571007291/
 # GitHub   : https://github.com/SAYOS-crs
-```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=SAYOS%20%E2%80%A2%20Root%20Access%20Granted&fontSize=16&fontColor=ff0033" width="100%" />
+
+</div>
 
 ###  Core Technical Competencies & Skill Matrix
 
@@ -150,16 +153,5 @@ sayos@cyber-kernel:~$ echo "Let's build something extraordinary together."
 ---
 
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=SAYOS%20%E2%80%A2%20Root%20Access%20Granted&fontSize=16&fontColor=ff0033" width="100%" />
 
-</div>
-```
-
----
-
-### 📤 How to Upload to GitHub:
-1. Go to repository **`SAYOS-crs/SAYOS-crs`** on GitHub ([github.com/SAYOS-crs/SAYOS-crs](https://github.com/SAYOS-crs/SAYOS-crs)).
-2. Edit or create the `README.md` file.
-3. Paste the contents of [README.md](file:///home/sayos/.gemini/antigravity/scratch/SAYOS-crs/README.md) and commit!
