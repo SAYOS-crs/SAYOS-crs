@@ -2,8 +2,7 @@
 
 <!-- Crimson Cyber Terminal Header -->
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" height="35" alt="Laptop" />
-  <span style="color: #ff0033;">Eslam Elawady</span> | SAYOS-crs
+  <span style="color: #ff0033;">Eslam Elawady</span> | SAYOS
 </h1>
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -17,6 +16,19 @@
 </p>
 
 ---
+[01] ⚡ Instawork Platform
+     ├── Description : Full-fledged freelance platform tailored for craftsmen & service workers
+     ├── Tech Stack  : Next.js, TypeScript, Node.js, MongoDB, Tailwind
+     └── Repository  : https://github.com/SAYOS-crs/Instawork-graduation-project
+
+[02] 🧪 FCM-T (Firebase Cloud Messaging Tester)
+     ├── Description : Custom testing utility tool for FCM push notification payloads & configs
+     ├── Tech Stack  : JavaScript, Node.js, Firebase Admin API
+     └── Repository  : https://github.com/SAYOS-crs/FCM-T
+
+[03] 🤖 MCP Servers & AI Integrations
+     ├── Description : Model Context Protocol custom servers & agentic workflow tools
+     └── Focus       : LLM tools integration, workflow automation, custom MCP server architecture
 
 </div>
 
