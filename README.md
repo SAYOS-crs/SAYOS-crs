@@ -52,7 +52,7 @@
 
 </div>
 
-```bash
+
  ┌──(empire㉿death-star-terminal)-[/root/imperial-navy]
  └─$ ./execute_order_66.sh --target "Flawless System Execution"
  
