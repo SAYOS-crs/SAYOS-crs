@@ -20,7 +20,7 @@
 
 ---
 
-### 🖥️ `sayos@terminal:~# cat /etc/profile.sys`
+### `sayos@terminal:~# cat /etc/profile.sys`
 
 ```bash
  ┌──(sayos㉿cyber-kernel)-[~]
