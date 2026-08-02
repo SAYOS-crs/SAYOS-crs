@@ -56,9 +56,9 @@
 
 
  `
-   • IMPERIAL DIRECTIVE : Build unstoppable, high-throughput galactic software architectures
-   • SITH CODE          : Peace is a lie, there is only passion. Through passion, I gain strength.
-   • FORCE SENSITIVE    : GenAI Agent Automation, Custom MCP Servers & Dark-Mode Aesthetics
+   • IMPERIAL DIRECTIVE : Build unstoppable, high-throughput galactic software architectures <br/><br/>
+   • SITH CODE          : Peace is a lie, there is only passion. Through passion, I gain strength. <br/><br/>
+   • FORCE SENSITIVE    : GenAI Agent Automation, Custom MCP Servers & Dark-Mode Aesthetics <br/><br/>
    • FLEET STATUS       : Operational & ready for full galactic deployment
 `
 
