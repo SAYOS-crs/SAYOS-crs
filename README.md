@@ -25,7 +25,7 @@
 
  ┌──(sayos㉿cyber-kernel)-[~]
  └─$ status --user "Eslam Mohamed Elawady"
- ```#bash
+ ```
    • IDENTITY    : Full Stack Software Engineer & AI Systems Integrator
    • LOCATION    : Giza, Egypt 🇪🇬
    • CORE STACK  : MERN Stack (MongoDB, Express, React, Node.js) | NestJS | Next.js
