@@ -29,6 +29,5 @@
    • IDENTITY    : Full Stack Software Engineer & AI Systems Integrator
    • LOCATION    : Giza, Egypt 🇪🇬
    • CORE STACK  : MERN Stack (MongoDB, Express, React, Node.js) | NestJS | Next.js
-   • SPECIALTY   : Scalable Backend Architecture, Custom MCP Servers, GenAI Agents, CI/CD
-   • KERNEL      : Linux Enthusiast | Bash Scripting | High Performance Clean Code
+   • SPECIALTY   : Scalable Backend Architecture, Systems Architecture , GenAI Agents, CI/CD
    • EMAIL       : Eslam.mohamed.ki123@gmail.com
