@@ -18,6 +18,27 @@
 
 </div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ff0033" />
+<br/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff0033" />
+<br/>
+<img src="https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=anthropic&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=ff0033" />
+<img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=ff0033" />
+</div>
+
+
 ---
 
 ### `sayos@terminal:~# cat /etc/profile.sys`
