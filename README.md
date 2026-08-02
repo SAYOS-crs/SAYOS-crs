@@ -12,7 +12,7 @@
   <a href="https://github.com/SAYOS-crs"><img src="https://img.shields.io/badge/GitHub-SAYOS--crs-ff0033?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
 </p>
 
-
+<div align="left" >
 ### `sayos@terminal:~# cat /etc/profile.sys`
 
 
@@ -26,7 +26,8 @@
    • EMAIL       : Eslam.mohamed.ki123@gmail.com
 
 ```
-
+  
+</div>
 
 
 <p align="center">
