@@ -22,7 +22,7 @@
 
 ### `sayos@terminal:~# cat /etc/profile.sys`
 
-```bash
+
  ┌──(sayos㉿cyber-kernel)-[~]
  └─$ status --user "Eslam Mohamed Elawady"
  
@@ -33,14 +33,6 @@
    • EMAIL       : Eslam.mohamed.ki123@gmail.com
 
 
-
-
-Created README.md
-
-Here is **only the Star Wars Galactic Empire Animated Section** snippet so you can easily copy and paste just this part into your README:
-
-```markdown
----
 
 ### 🛸 Galactic Empire Command Center
 
@@ -68,10 +60,6 @@ Here is **only the Star Wars Galactic Empire Animated Section** snippet so you c
    • SITH CODE          : Peace is a lie, there is only passion. Through passion, I gain strength.
    • FORCE SENSITIVE    : GenAI Agent Automation, Custom MCP Servers & Dark-Mode Aesthetics
    • FLEET STATUS       : Operational & ready for full galactic deployment
-```
-```
-
----
 
 ### ✨ Features of this snippet:
 1. **⚡ Animated Twinkling Red Header (`capsule-render`):** Displays `⚡ GALACTIC EMPIRE MAINFRAME ⚡` with a dark red animation.
