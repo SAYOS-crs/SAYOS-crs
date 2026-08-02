@@ -34,8 +34,5 @@
 
 ```
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SAYOS-crs&show_icons=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=09090b&border_color=ff0033&hide_border=false" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYOS-crs&layout=compact&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=09090b&border_color=ff0033&hide_border=false" width="49%" alt="Top Languages" />
-<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAYOS-crs&theme=dark&background=09090b&border=ff0033&fire=ff0033&ring=ff0033&currStreakNum=ffffff&currStreakLabel=ff0033&dates=888888" width="99%" alt="Streak Stats" />
 </div>
