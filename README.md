@@ -1,9 +1,9 @@
 
 #### **Professional Identity**
 * **Name:** Eslam Mohamed Ahmed Elawady Elashry (`SAYOS`)
-* **Role:** Full Stack Developer (BackEnd Focus) & Generative AI
+* **Role:** Full Stack Developer (BackEnd Focus)
 * **Location:** Giza, Egypt 🇪🇬
-* **Core Focus:** MERN Stack, Nest.js, Next.js, CI/CD Automation, MCP (Model Context Protocol) Servers, and Generative AI.
+* **Core Focus:** MERN Stack, Nest.js, Next.js, CI/CD , MCP (Model Context Protocol) Servers, and Generative AI.
 
 #### **Technical Skillset Breakdown**
 | Domain | Technologies & Skills |
