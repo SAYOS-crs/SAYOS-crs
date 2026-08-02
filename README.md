@@ -53,11 +53,15 @@
 
  ┌──(empire㉿death-star-terminal)-[/root/imperial-navy]
  └─$ ./execute_order_66.sh --target "Flawless System Execution"
- 
+
+
+ `
    • IMPERIAL DIRECTIVE : Build unstoppable, high-throughput galactic software architectures
    • SITH CODE          : Peace is a lie, there is only passion. Through passion, I gain strength.
    • FORCE SENSITIVE    : GenAI Agent Automation, Custom MCP Servers & Dark-Mode Aesthetics
    • FLEET STATUS       : Operational & ready for full galactic deployment
+`
+
 
 ### ✨ Features of this snippet:
 1. **⚡ Animated Twinkling Red Header (`capsule-render`):** Displays `⚡ GALACTIC EMPIRE MAINFRAME ⚡` with a dark red animation.
