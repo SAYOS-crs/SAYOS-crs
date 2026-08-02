@@ -38,8 +38,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&text=%E2%9A%A1%20GALACTIC%20EMPIRE%20MAINFRAME%20%E2%9A%A1&fontSize=26&fontColor=FF0033&animation=twinkling&fontAlignY=50" width="100%" alt="Empire Banner" />
-
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=%3E_+You+don't+know+the+power+of+the+Dark+Side...;%3E_+Execute+Order+66%3A+Deploy+Scalable+Architectures;%3E_+Peace+is+a+lie%2C+there+is+only+passion;%3E_+Death+Star+Mainframe%3A+Sith+Systems+Online" alt="Imperial Terminal Animation" />
 </a>
