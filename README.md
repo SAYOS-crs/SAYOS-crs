@@ -1,66 +1,6 @@
-Searched web: ""eslam-elawdy-571007291" OR "eslam-elawdy" site:linkedin.com"
-Searched web: ""eslam elawdy" OR "eslam elawady" "giza" OR "egypt" OR "mern""
-Created README_V2.md
-Created README.md
-
-### 🔴 Enhanced Red & Black Cyberpunk Profile README (V2)
-
-Here is your updated, high-tech GitHub profile `README.md` file featuring new **animations, live widgets, expandable project modules, and an enhanced core skills matrix**.
-
-Files created for you:
-1. 📂 Main file ready for upload: [README.md](file:///home/sayos/.gemini/antigravity/scratch/SAYOS-crs/README.md)
-2. 📂 Backup / V2 copy: [README_V2.md](file:///home/sayos/.gemini/antigravity/scratch/SAYOS-crs/README_V2.md)
-
----
-
-### ✨ What Was Enhanced & Added:
-
-1. **🔴 Animated Glowing Header Banner (`capsule-render`):**
-   * Features a custom waving red/black header with twinkling animation and dynamic title: `Full Stack Architect | Nest.js | Next.js | MCP + GenAI`.
-2. **⌨️ Animated Typing Terminal SVG (`readme-typing-svg`):**
-   * Rotates through your core technical taglines (`Root access granted...`, `Building Scalable MERN + NestJS Systems`, `Crafting Custom MCP Servers & GenAI Tools`).
-3. **⚔️ Enhanced Skills & Competencies Matrix:**
-   * Styled structured HTML table covering **Frontend Architecture**, **Backend & Microservices**, **Database & ORM**, **AI Agents & MCP**, **DevOps & Automation**, and **Testing & Quality**.
-4. **👁️ Live Visitor Counter:**
-   * Dynamic real-time visitor badge (`SYSTEM VISITS`) matching the dark red cyberpunk theme.
-5. **📂 Collapsible Interactive Project Modules (`<details>`):**
-   * Clean collapsible accordions for **Instawork (Graduation Project)**, **FCM-T (Firebase Cloud Messaging Tester)**, and **Custom MCP Servers & GenAI Agents**.
-6. **📊 Red & Pitch-Black Telemetry Stats:**
-   * Custom-styled GitHub Stats, Top Languages, and GitHub Streak cards with glowing red borders (`#FF0033`).
-
----
-
-### 📄 Preview of the New Animated README
-
-```markdown
-<div align="center">
-
-<!-- Cyberpunk Glowing Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Eslam%20Elawady%20(SAYOS)&fontSize=42&fontColor=FF0033&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Architect%20%7C%20Nest.js%20%7C%20Next.js%20%7C%20MCP%20%2B%20GenAI&descSize=18&descColor=DDDDDD&descAlignY=62" width="100%" alt="Header Banner" />
-
-<!-- Dynamic Animated Typing Subtitle -->
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF0033&center=true&vCenter=true&width=650&lines=%3E_+'Root'+access+granted...;%3E_+Building+Scalable+MERN+%2B+NestJS+Systems;%3E_+Crafting+Custom+MCP+Servers+%26+GenAI+Tools;%3E_+CI%2FCD+Pipelines+%26+Linux+Cybersecurity" alt="Typing Banner" />
-</a>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eslam-elawdy-571007291/"><img src="https://img.shields.io/badge/LinkedIn-Profile-ff0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
-  <a href="mailto:Eslam.mohamed.ki123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-ff0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
-  <a href="https://github.com/SAYOS-crs"><img src="https://img.shields.io/badge/GitHub-SAYOS--crs-ff0033?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
-</p>
-
-<!-- Live Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAYOS-crs&color=ff0033&style=flat-square&label=SYSTEM+VISITS" alt="Visitor Counter" />
-</p>
-
-</div>
-
----
 
 ### 🖥️ `sayos@terminal:~# cat /etc/profile.sys`
 
-```bash
  ┌──(sayos㉿cyber-kernel)-[~]
  └─$ status --user "Eslam Mohamed Elawady"
  
@@ -68,13 +8,18 @@ Files created for you:
    • LOCATION    : Giza, Egypt 🇪🇬
    • CORE STACK  : MERN Stack (MongoDB, Express, React, Node.js) | NestJS | Next.js
    • SPECIALTY   : Scalable Backend Architecture, Custom MCP Servers, GenAI Agents, CI/CD
-   • KERNEL      : Linux Enthusiast | Bash Scripting | High Performance Clean Code
    • EMAIL       : Eslam.mohamed.ki123@gmail.com
+
+
+```bash
+sayos@cyber-kernel:~$ echo "Let's build something extraordinary together."
+# Email    : Eslam.mohamed.ki123@gmail.com
+# LinkedIn : https://www.linkedin.com/in/eslam-elawdy-571007291/
+# GitHub   : https://github.com/SAYOS-crs
 ```
 
----
 
-### ⚔️ Core Technical Competencies & Skill Matrix
+###  Core Technical Competencies & Skill Matrix
 
 <table>
   <thead>
@@ -204,14 +149,6 @@ Files created for you:
 
 ---
 
-### 💬 System Terminal Prompt
-
-```bash
-sayos@cyber-kernel:~$ echo "Let's build something extraordinary together."
-# Email    : Eslam.mohamed.ki123@gmail.com
-# LinkedIn : https://www.linkedin.com/in/eslam-elawdy-571007291/
-# GitHub   : https://github.com/SAYOS-crs
-```
 
 <div align="center">
 
