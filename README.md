@@ -11,11 +11,8 @@
   <a href="mailto:Eslam.mohamed.ki123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-ff0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
   <a href="https://github.com/SAYOS-crs"><img src="https://img.shields.io/badge/GitHub-SAYOS--crs-ff0033?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
 </p>
-### `sayos@terminal:~# cat /etc/profile.sys`
 
 
- ┌──(sayos㉿cyber-kernel)-[~]
- └─$ status --user "Eslam Mohamed Elawady"
 <div align="left" >
 
  ```
